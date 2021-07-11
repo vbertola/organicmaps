@@ -21845,43 +21845,6 @@
     sk = Sťahovanie
     sw = Inapakua
 
-  [key_information_title]
-    tags = android, ios
-    en = Key information
-    be = Галоўная інфармацыя
-    ru = Ключевая информация
-    bg = Ключова информация
-    ar = معلومات رئيسية
-    cs = Klíčové informace
-    da = Central information
-    nl = Belangrijke informatie
-    fi = Avaintietoa
-    fr = Informations clés
-    de = Wichtige Informationen
-    hu = Kulcs információ
-    id = Informasi kunci
-    it = Informazioni importanti
-    ja = 重要情報
-    ko = 핵심 정보
-    nb = Nøkkelinformasjon
-    pl = Kluczowe informacje
-    pt = Informação importante
-    pt-BR = Informação importante
-    ro = Informații importante
-    es = Información clave
-    sv = Nyckelinformation
-    th = ข้อมูลหลัก
-    tr = Anahtar bilgisi
-    uk = Ключова інформація
-    vi = Thông tin chìa khóa
-    zh-Hans = 关键信息
-    zh-Hant = 關鍵信息
-    el = Βασικές πληροφορίες
-    es-MX = Información clave
-    fa = اطلاعات کلیدی
-    sk = Kľúčová informácia
-    sw = Habari muhimu
-
   [download_map_title]
     tags = android
     en = Download the world map
