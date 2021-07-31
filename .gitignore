@@ -57,6 +57,7 @@ qt/mapswithme.log
 xcode/keys/*
 xcode/build/*
 xcode/metadata/review_information/*
+xcode/fastlane/report.xml
 iphone/*/*.xcodeproj/*.pbxuser
 iphone/*/*.xcodeproj/*.perspectivev3
 iphone/*/*.xcodeproj/project.xcworkspace/*
