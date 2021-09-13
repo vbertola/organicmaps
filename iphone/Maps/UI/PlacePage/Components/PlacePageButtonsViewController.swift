@@ -1,12 +1,10 @@
 protocol PlacePageButtonsViewControllerDelegate: AnyObject {
-  func didPressHotels()
   func didPressAddPlace()
   func didPressEditPlace()
   func didPressAddBusiness()
 }
 
 class PlacePageButtonsViewController: UIViewController {
-//  @IBOutlet var bookingButton: UIButton!
   @IBOutlet var addPlaceButton: UIButton!
   @IBOutlet var editPlaceButton: UIButton!
 //  @IBOutlet var addBusinessButton: UIButton!
@@ -30,7 +28,6 @@ class PlacePageButtonsViewController: UIViewController {
   override func viewDidLoad() {
     super.viewDidLoad()
 
-//    bookingButton.isHidden = !buttonsData.showHotelDescription
     addPlaceButton.isHidden = !buttonsData.showAddPlace
     editPlaceButton.isHidden = !buttonsData.showEditPlace
 //    addBusinessButton.isHidden = !buttonsData.showAddBusiness
@@ -40,10 +37,6 @@ class PlacePageButtonsViewController: UIViewController {
     }
   }
     
-  @IBAction func onBooking(_ sender: UIButton) {
-    delegate?.didPressHotels()
-  }
-
   @IBAction func onAddPlace(_ sender: UIButton) {
     delegate?.didPressAddPlace()
   }

@@ -157,23 +157,6 @@ bool ParseSetGpsTrackMinAccuracyCommand(string const & query)
   GpsTrackFilter::StoreMinHorizontalAccuracy(value);
   return true;
 }
-/*
-string MakeSearchBookingUrl(booking::Api const & bookingApi, search::CityFinder & cityFinder,
-                            FeatureType & ft)
-{
-  string name;
-  auto const & info = ft.GetID().m_mwmId.GetInfo();
-  ASSERT(info, ());
-
-  int8_t lang = feature::GetNameForSearchOnBooking(info->GetRegionData(), ft.GetNames(), name);
-
-  if (lang == StringUtf8Multilang::kUnsupportedLanguageCode)
-    return {};
-
-  string city = cityFinder.GetCityName(feature::GetCenter(ft), lang);
-
-  return bookingApi.GetSearchUrl(city, name);
-}*/
 }  // namespace
 
 pair<MwmSet::MwmId, MwmSet::RegResult> Framework::RegisterMap(

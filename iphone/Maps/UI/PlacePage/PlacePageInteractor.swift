@@ -49,10 +49,6 @@ extension PlacePageInteractor: WikiDescriptionViewControllerDelegate {
 // MARK: - PlacePageButtonsViewControllerDelegate
 
 extension PlacePageInteractor: PlacePageButtonsViewControllerDelegate {
-  func didPressHotels() {
-    MWMPlacePageManagerHelper.openDescriptionUrl(placePageData)
-  }
-
   func didPressAddPlace() {
     MWMPlacePageManagerHelper.addPlace(placePageData.locationCoordinate)
   }
