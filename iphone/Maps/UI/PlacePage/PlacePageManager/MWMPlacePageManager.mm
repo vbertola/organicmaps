@@ -150,9 +150,9 @@ using namespace storage;
   [self.ownerViewController openEditor];
 }
 
-- (void)addBusiness
+- (void)addBusiness:(CLLocationCoordinate2D)coordinate
 {
-  [[MWMMapViewControlsManager manager] addPlace:YES hasPoint:NO point:m2::PointD()];
+  [[MWMMapViewControlsManager manager] addPlace:YES hasPoint:YES point:location_helpers::ToMercator(coordinate)];
 }
 
 - (void)addPlace:(CLLocationCoordinate2D)coordinate

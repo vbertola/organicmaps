@@ -5,7 +5,7 @@
 
 + (void)updateAvailableArea:(CGRect)frame;
 + (void)editPlace;
-+ (void)addBusiness;
++ (void)addBusiness:(CLLocationCoordinate2D)coordinate;
 + (void)addPlace:(CLLocationCoordinate2D)coordinate;
 + (void)openWebsite:(PlacePageData *)data;
 + (void)call:(PlacePageData *)data;

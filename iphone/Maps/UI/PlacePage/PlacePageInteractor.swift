@@ -58,7 +58,7 @@ extension PlacePageInteractor: PlacePageButtonsViewControllerDelegate {
   }
 
   func didPressAddBusiness() {
-    MWMPlacePageManagerHelper.addBusiness()
+    MWMPlacePageManagerHelper.addBusiness(placePageData.locationCoordinate)
   }
 }
 

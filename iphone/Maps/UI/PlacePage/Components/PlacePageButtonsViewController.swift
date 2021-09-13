@@ -7,11 +7,10 @@ protocol PlacePageButtonsViewControllerDelegate: AnyObject {
 class PlacePageButtonsViewController: UIViewController {
   @IBOutlet var addPlaceButton: UIButton!
   @IBOutlet var editPlaceButton: UIButton!
-//  @IBOutlet var addBusinessButton: UIButton!
+  @IBOutlet var addBusinessButton: UIButton!
 
   private var buttons: [UIButton?] {
-//    [bookingButton, addPlaceButton, editPlaceButton, addBusinessButton]
-    [addPlaceButton, editPlaceButton]
+    [addPlaceButton, editPlaceButton, addBusinessButton]
   }
 
   var buttonsData: PlacePageButtonsData!
@@ -30,7 +29,7 @@ class PlacePageButtonsViewController: UIViewController {
 
     addPlaceButton.isHidden = !buttonsData.showAddPlace
     editPlaceButton.isHidden = !buttonsData.showEditPlace
-//    addBusinessButton.isHidden = !buttonsData.showAddBusiness
+    addBusinessButton.isHidden = !buttonsData.showAddBusiness
 
     buttons.forEach {
       $0?.isEnabled = buttonsEnabled
