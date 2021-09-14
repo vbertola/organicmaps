@@ -10,7 +10,6 @@
 
 @interface MWMPlacePageManager ()
 
-- (void)updateAvailableArea:(CGRect)frame;
 - (void)editPlace;
 - (void)addBusiness:(CLLocationCoordinate2D)coordinate;
 - (void)addPlace:(CLLocationCoordinate2D)coordinate;
@@ -40,11 +39,6 @@
 @end
 
 @implementation MWMPlacePageManagerHelper
-
-+ (void)updateAvailableArea:(CGRect)frame
-{
-  [[MWMMapViewControlsManager manager].placePageManager updateAvailableArea:frame];
-}
 
 + (void)editPlace {
   [[MWMMapViewControlsManager manager].placePageManager editPlace];

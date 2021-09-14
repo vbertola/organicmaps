@@ -3,7 +3,6 @@
 
 @interface MWMPlacePageManagerHelper : NSObject
 
-+ (void)updateAvailableArea:(CGRect)frame;
 + (void)editPlace;
 + (void)addBusiness:(CLLocationCoordinate2D)coordinate;
 + (void)addPlace:(CLLocationCoordinate2D)coordinate;

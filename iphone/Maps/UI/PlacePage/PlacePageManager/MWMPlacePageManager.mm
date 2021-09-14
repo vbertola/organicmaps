@@ -240,15 +240,6 @@ using namespace storage;
   [[MapViewController sharedController] presentViewController:difficultyPopup animated:YES completion:nil];
 }
 
-#pragma mark - AvailableArea / PlacePageArea
-
-- (void)updateAvailableArea:(CGRect)frame
-{
-//  auto data = self.data;
-//  if (data)
-//    [self.layout updateAvailableArea:frame];
-}
-
 #pragma mark - MWMFeatureHolder
 
 - (FeatureID const &)featureId { return GetFramework().GetCurrentPlacePageInfo().GetID(); }
