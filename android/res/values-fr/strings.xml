@@ -815,7 +815,6 @@
 	<string name="isolines_toast_zooms_1_10">Zoomez pour voir les courbes de niveaux</string>
 	<string name="downloader_updating_ios">Misе à jour</string>
 	<string name="downloader_loading_ios">Téléchargement</string>
-	<string name="key_information_title">Informations clés</string>
 	<string name="enable_screen_sleep">Autoriser l\'écran à dormir</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">Lorsqu\'il est activé, l\'écran sera autorisé à dormir après une période d\'inactivité.</string>

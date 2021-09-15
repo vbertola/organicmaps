@@ -822,7 +822,6 @@
 	<string name="isolines_toast_zooms_1_10">Павялічце маштаб, каб пабачыць рэльеф</string>
 	<string name="downloader_updating_ios">Абнаўленне</string>
 	<string name="downloader_loading_ios">Спампоўка</string>
-	<string name="key_information_title">Галоўная інфармацыя</string>
 	<string name="download_map_title">Спампаваць мапу света</string>
 	<string name="connection_failure">Памылка падлучэння</string>
 	<string name="disconnect_usb_cable_title">Адлучыце USB кабель</string>

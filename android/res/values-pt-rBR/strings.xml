@@ -817,7 +817,6 @@
 	<string name="isolines_toast_zooms_1_10">Use o zoom para explorar as isolinhas</string>
 	<string name="downloader_updating_ios">Atualizando</string>
 	<string name="downloader_loading_ios">Baixando</string>
-	<string name="key_information_title">Informação importante</string>
 	<string name="download_map_title">Baixar mapa mundial</string>
 	<string name="connection_failure">Falha na coneção</string>
 	<string name="enable_screen_sleep">Permitir que a tela hiberne</string>

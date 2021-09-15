@@ -801,7 +801,6 @@
 	<string name="isolines_toast_zooms_1_10">Ingrandisci mappa per vedere l\'isolinea</string>
 	<string name="downloader_updating_ios">Aggiornamento in corso</string>
 	<string name="downloader_loading_ios">Caricamento</string>
-	<string name="key_information_title">Informazioni importanti</string>
 	<string name="enable_screen_sleep">Consenti allo schermo di dormire</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">Quando abilitato, lo schermo potrà dormire dopo un periodo di inattività.</string>

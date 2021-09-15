@@ -807,7 +807,6 @@
 	<string name="isolines_toast_zooms_1_10">Збільште мапу, щоб побачити ізолінії</string>
 	<string name="downloader_updating_ios">Оновлення</string>
 	<string name="downloader_loading_ios">Завантаження</string>
-	<string name="key_information_title">Ключова інформація</string>
 	<string name="enable_screen_sleep">Дозволити екрану вимкнутись</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">При включенні екран може переходити в сплячий режим після певного періоду бездіяльності</string>

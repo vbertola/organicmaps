@@ -793,7 +793,6 @@
 	<string name="isolines_toast_zooms_1_10">Μεγεθύνετε για να δείτε περιγράμματα</string>
 	<string name="downloader_updating_ios">Ενημέρωση</string>
 	<string name="downloader_loading_ios">Φόρτωση</string>
-	<string name="key_information_title">Βασικές πληροφορίες</string>
 	<string name="enable_screen_sleep">Αφήστε την οθόνη να κοιμηθεί</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">Όταν είναι ενεργοποιημένη, η οθόνη θα αφεθεί να κοιμηθεί μετά από περίοδο αδράνειας.</string>

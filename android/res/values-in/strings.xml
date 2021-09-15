@@ -805,7 +805,6 @@
 	<string name="isolines_toast_zooms_1_10">Perbesar untuk menjelajahi garis kontur</string>
 	<string name="downloader_updating_ios">Memperbarui</string>
 	<string name="downloader_loading_ios">Mengunduh</string>
-	<string name="key_information_title">Informasi kunci</string>
 	<string name="enable_screen_sleep">Izinkan layar untuk tidur</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">Jika diaktifkan, layar akan diizinkan untuk tidur setelah beberapa saat tidak aktif.</string>

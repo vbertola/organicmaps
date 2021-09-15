@@ -781,7 +781,6 @@
 	<string name="isolines_toast_zooms_1_10">Forstørr kartet for å se høydekurver</string>
 	<string name="downloader_updating_ios">Oppdatering</string>
 	<string name="downloader_loading_ios">Nedlasting</string>
-	<string name="key_information_title">Nøkkelinformasjon</string>
 	<string name="enable_screen_sleep">La skjermen sove</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">Når den er aktivert, får skjermen lov til å sove etter en periode med inaktivitet.</string>

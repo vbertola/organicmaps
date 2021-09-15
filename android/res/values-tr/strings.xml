@@ -804,7 +804,6 @@
 	<string name="isolines_toast_zooms_1_10">Konturları görmek için haritayı büyütün</string>
 	<string name="downloader_updating_ios">Güncelleme</string>
 	<string name="downloader_loading_ios">İndir</string>
-	<string name="key_information_title">Anahtar bilgisi</string>
 	<string name="enable_screen_sleep">Ekranın uyumasına izin ver</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">Etkinleştirildiğinde ekranın bir süre hareketsiz kaldıktan sonra uykuya geçmesine izin verilir.</string>

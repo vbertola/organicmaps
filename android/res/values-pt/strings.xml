@@ -819,7 +819,6 @@
 	<string name="isolines_toast_zooms_1_10">Amplie o mapa para ver as curvas de nível</string>
 	<string name="downloader_updating_ios">A atualizar</string>
 	<string name="downloader_loading_ios">A descarregar</string>
-	<string name="key_information_title">Informação importante</string>
 	<string name="download_map_title">Descarregar o mapa mundial</string>
 	<string name="connection_failure">Falha na coneção</string>
 	<string name="enable_screen_sleep">Permitir que o ecrã desligue</string>

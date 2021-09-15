@@ -804,7 +804,6 @@
 	<string name="isolines_toast_zooms_1_10">قرب لتكتشف خطوط الكنتور</string>
 	<string name="downloader_updating_ios">جار التحديث</string>
 	<string name="downloader_loading_ios">جار التحميل</string>
-	<string name="key_information_title">معلومات رئيسية</string>
 	<string name="enable_screen_sleep">اسمح للشاشة بالنوم</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">عند التمكين ، سيتم السماح للشاشة بالنوم بعد فترة من عدم النشاط.</string>

@@ -811,7 +811,6 @@
 	<string name="isolines_toast_zooms_1_10">Karte vergrößern, um Isolinien zu sehen</string>
 	<string name="downloader_updating_ios">Update</string>
 	<string name="downloader_loading_ios">Download</string>
-	<string name="key_information_title">Wichtige Informationen</string>
 	<string name="enable_screen_sleep">Bildschirm schlafen lassen</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">Wenn diese Option aktiviert ist, kann der Bildschirm nach einer gewissen Zeit der Inaktivität in den Ruhezustand versetzt werden.</string>

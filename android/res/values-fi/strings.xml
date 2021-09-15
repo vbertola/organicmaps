@@ -805,7 +805,6 @@
 	<string name="isolines_toast_zooms_1_10">Suurenna kartta nähdäksesi korkeuslinjat</string>
 	<string name="downloader_updating_ios">Päivitys</string>
 	<string name="downloader_loading_ios">Lataus</string>
-	<string name="key_information_title">Avaintietoa</string>
 	<string name="enable_screen_sleep">Anna näytön nukkua</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">Kun tämä asetus on käytössä, näytön annetaan nukkua käyttämättömyyden jälkeen.</string>

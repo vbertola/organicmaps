@@ -802,7 +802,6 @@
 	<string name="isolines_toast_zooms_1_10">등치선 탐색을 위한 확대</string>
 	<string name="downloader_updating_ios">업데이트 중</string>
 	<string name="downloader_loading_ios">다운로드 중</string>
-	<string name="key_information_title">핵심 정보</string>
 	<string name="enable_screen_sleep">화면 절전 모드 허용</string>
 	<!-- Description in preferences -->
 	<string name="enable_screen_sleep_description">활성화되면 일정 시간 동안 활동이 없으면 화면이 절전 모드로 전환됩니다.</string>
