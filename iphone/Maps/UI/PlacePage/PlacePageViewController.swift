@@ -90,7 +90,6 @@ final class PlacePageScrollView: UIScrollView {
   }
 
   func updateSteps() {
-    layoutIfNeeded()
     scrollSteps = layout.calculateSteps(inScrollView: scrollView,
                                         compact: traitCollection.verticalSizeClass == .compact)
   }
@@ -307,7 +306,6 @@ extension PlacePageViewController: UIScrollViewDelegate {
       return
     }
 
-    updateSteps()
     let nextStep = findNextStop(scrollView.contentOffset.y, velocity: velocity.y)
     targetContentOffset.pointee = CGPoint(x: 0, y: nextStep.offset)
   }
