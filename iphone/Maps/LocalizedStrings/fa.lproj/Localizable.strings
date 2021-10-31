@@ -381,10 +381,16 @@
 /* Text in menu */
 "help" = "کمک";
 
-/* Text in menu */
+/* Button in the main Help dialog */
+"faq" = "ﻝﻭﺍﺪﺘﻣ ﺕﻻﺍﻮﺳ";
+
+/* Button in the main Help dialog */
+"how_to_support_us" = "How to support us?";
+
+/* Button in the main Help dialog */
 "copyright" = "حق نشر و کپی رایت";
 
-/* Text in menu */
+/* Text in menu + Button in the main Help dialog */
 "report_a_bug" = "گزارش خطا";
 
 /* Alert text */
@@ -996,17 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps  از اطلاعات موقعیت مکانی شما در پس ضمینه برای ذخیره مسیر هایی که اخیرا سفر کرده اید استفاده می کند.";
 
-/* Rate on Google Play (Android only) */
-"rate_gp" = "امتیاز دادن در گوگل پلی";
-
-/* Share with friends: menu item title */
-"tell_friends" = "به یک دوست بگویید";
-
-/* Share with friends: sharing text */
-"tell_friends_text" = "سلام!  Organic Maps را نصب کنید.";
-
 /* About short text (below logo) */
-"about_description" = "Organic Maps یک نرم افزار افلاین مخصوص سفر است. Organic Maps بر پایه دیتای OpenStreetMap است و به شما اجازه ویرایش در ان را می دهد.";
+"about_description" = "Organic Maps is a free and open-source offline maps app, developed by a few geeks in their free time. All map data is from OpenStreetMap. No ads. No tracking and personal data collection.";
 
 "general_settings" = "تنظیمات عمومی";
 

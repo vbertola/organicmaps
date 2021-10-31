@@ -12,4 +12,6 @@
 	<string name="measurement_units_summary">Choose between miles and kilometres</string>
 	<!-- Search category -->
 	<string name="fuel">Petrol</string>
+	<!-- Button in the main Help dialog -->
+	<string name="how_to_support_us">How to support us?</string>
 </resources>

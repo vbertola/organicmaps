@@ -381,10 +381,16 @@
 /* Text in menu */
 "help" = "Bantuan";
 
-/* Text in menu */
+/* Button in the main Help dialog */
+"faq" = "FAQ";
+
+/* Button in the main Help dialog */
+"how_to_support_us" = "How to support us?";
+
+/* Button in the main Help dialog */
 "copyright" = "Hak cipta";
 
-/* Text in menu */
+/* Text in menu + Button in the main Help dialog */
 "report_a_bug" = "Laporkan gangguan";
 
 /* Alert text */
@@ -996,17 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps menggunakan geoposisi di latar belakang untuk merekam rute yang baru Anda lalui.";
 
-/* Rate on Google Play (Android only) */
-"rate_gp" = "Beri nilai di Google Play";
-
-/* Share with friends: menu item title */
-"tell_friends" = "Beri Tahu Teman";
-
-/* Share with friends: sharing text */
-"tell_friends_text" = "Hai! Instal Organic Maps yuk!";
-
 /* About short text (below logo) */
-"about_description" = "Organic Maps adalah aplikasi offline yang sangat berguna untuk bepergian. Organic Maps didasarkan pada data OpenStreetMap dan memungkinkan kita untuk mengeditnya.";
+"about_description" = "Organic Maps is a free and open-source offline maps app, developed by a few geeks in their free time. All map data is from OpenStreetMap. No ads. No tracking and personal data collection.";
 
 "general_settings" = "Setelan umum";
 

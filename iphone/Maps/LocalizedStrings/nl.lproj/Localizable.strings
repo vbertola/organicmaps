@@ -381,10 +381,16 @@
 /* Text in menu */
 "help" = "Hulp";
 
-/* Text in menu */
+/* Button in the main Help dialog */
+"faq" = "FAQ";
+
+/* Button in the main Help dialog */
+"how_to_support_us" = "Hoe kunt u ons steunen?";
+
+/* Button in the main Help dialog */
 "copyright" = "Auteursrechten";
 
-/* Text in menu */
+/* Text in menu + Button in the main Help dialog */
 "report_a_bug" = "Meld een fout";
 
 /* Alert text */
@@ -996,17 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps gebruikt uw geografische positie op de achtergrond om uw onlangs afgelegde route vast te leggen.";
 
-/* Rate on Google Play (Android only) */
-"rate_gp" = "Beoordeel op Google Play";
-
-/* Share with friends: menu item title */
-"tell_friends" = "Vertel een Vriend";
-
-/* Share with friends: sharing text */
-"tell_friends_text" = "Hallo! Installeer Organic Maps!";
-
 /* About short text (below logo) */
-"about_description" = "Organic Maps is een essentiële offline applicatie om te reizen. Organic Maps is gebaseerd op OpenStreetMap gegevens en laat bewerking toe.";
+"about_description" = "Organic Maps is een gratis en open-source offline kaarten app voor reizigers, toeristen, wandelaars en fietsers. Geen advertenties. Geen tracking.  Geen Big Tech Co nieuwsgierige ogen.";
 
 "general_settings" = "Algemene instellingen";
 

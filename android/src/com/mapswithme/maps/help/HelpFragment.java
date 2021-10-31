@@ -1,7 +1,6 @@
-package com.mapswithme.maps.settings;
+package com.mapswithme.maps.help;
 
 
-import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
@@ -19,10 +18,9 @@ import com.mapswithme.maps.Framework;
 import com.mapswithme.maps.R;
 import com.mapswithme.util.Constants;
 import com.mapswithme.util.Graphics;
-import com.mapswithme.util.SharingUtils;
 import com.mapswithme.util.Utils;
 
-public class AboutFragment extends BaseSettingsFragment
+public class HelpFragment extends BaseHelpFragment
                         implements View.OnClickListener
 {
   private void setupItem(@IdRes int id, boolean tint, @NonNull View frame)
@@ -45,7 +43,7 @@ public class AboutFragment extends BaseSettingsFragment
     View root = super.onCreateView(inflater, container, savedInstanceState);
 
     ((TextView) root.findViewById(R.id.version))
-        .setText(getString(R.string.version, BuildConfig.VERSION_NAME));
+        .setText(BuildConfig.VERSION_NAME);
 
     ((TextView) root.findViewById(R.id.data_version))
         .setText(getString(R.string.data_version, Framework.nativeGetDataVersion()));
@@ -56,8 +54,10 @@ public class AboutFragment extends BaseSettingsFragment
     setupItem(R.id.instagram, false, root);
     setupItem(R.id.facebook, false, root);
     setupItem(R.id.twitter, false, root);
+    setupItem(R.id.faq, true, root);
+    setupItem(R.id.report, true, root);
+    setupItem(R.id.contribute, true, root);
     setupItem(R.id.rate, true, root);
-    setupItem(R.id.share, true, root);
     setupItem(R.id.copyright, false, root);
     View termOfUseView = root.findViewById(R.id.term_of_use_link);
     View privacyPolicyView = root.findViewById(R.id.privacy_policy);
@@ -85,49 +85,51 @@ public class AboutFragment extends BaseSettingsFragment
   @Override
   public void onClick(View v)
   {
-    try
+    switch (v.getId())
     {
-      switch (v.getId())
-      {
-      case R.id.web:
-        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(Constants.Url.WEB_SITE)));
-        break;
+    case R.id.web:
+      startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(Constants.Url.WEB_SITE)));
+      break;
 
-      case R.id.github:
-        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(Constants.Url.GITHUB)));
-        break;
+    case R.id.github:
+      startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(Constants.Url.GITHUB)));
+      break;
 
-      case R.id.telegram:
-        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(Constants.Url.TELEGRAM)));
-        break;
+    case R.id.telegram:
+      startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(Constants.Url.TELEGRAM)));
+      break;
 
-      case R.id.instagram:
-        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(Constants.Url.INSTAGRAM)));
-        break;
+    case R.id.instagram:
+      startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(Constants.Url.INSTAGRAM)));
+      break;
 
-      case R.id.facebook:
-        Utils.showFacebookPage(getActivity());
-        break;
+    case R.id.facebook:
+      Utils.showFacebookPage(getActivity());
+      break;
 
-      case R.id.twitter:
-        Utils.showTwitterPage(getActivity());
-        break;
+    case R.id.twitter:
+      Utils.showTwitterPage(getActivity());
+      break;
 
-      case R.id.rate:
-        Utils.openAppInMarket(getActivity(), BuildConfig.REVIEW_URL);
-        break;
+    case R.id.faq:
+      getHelpActivity().replaceFragment(FaqFragment.class, getString(R.string.faq), null);
+      break;
 
-      case R.id.share:
-        SharingUtils.shareApplication(getContext());
-        break;
+    case R.id.report:
+      Utils.sendFeedback(getActivity());
+      break;
 
-      case R.id.copyright:
-        getSettingsActivity().replaceFragment(CopyrightFragment.class,
-                                              getString(R.string.copyright), null);
-        break;
-      }
-    } catch (ActivityNotFoundException e)
-    {
+    case R.id.contribute:
+      Utils.showContributionPage(getActivity());
+      break;
+
+    case R.id.rate:
+      Utils.openAppInMarket(getActivity(), BuildConfig.REVIEW_URL);
+      break;
+
+    case R.id.copyright:
+      getHelpActivity().replaceFragment(CopyrightFragment.class, getString(R.string.copyright), null);
+      break;
     }
   }
 }

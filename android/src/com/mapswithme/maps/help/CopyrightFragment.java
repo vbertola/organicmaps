@@ -1,4 +1,4 @@
-package com.mapswithme.maps.settings;
+package com.mapswithme.maps.help;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,7 +13,7 @@ import com.mapswithme.maps.WebContainerDelegate;
 import com.mapswithme.maps.base.OnBackPressListener;
 import com.mapswithme.util.Constants;
 
-public class CopyrightFragment extends BaseSettingsFragment
+public class CopyrightFragment extends BaseHelpFragment
                             implements OnBackPressListener
 {
   private WebContainerDelegate mDelegate;
@@ -45,8 +45,8 @@ public class CopyrightFragment extends BaseSettingsFragment
   public boolean onBackPressed()
   {
     if (!mDelegate.onBackPressed())
-      getSettingsActivity().replaceFragment(AboutFragment.class,
-                                            getString(R.string.about_menu_title), null);
+      getHelpActivity().replaceFragment(HelpFragment.class,
+                                            getString(R.string.help), null);
 
     return true;
   }

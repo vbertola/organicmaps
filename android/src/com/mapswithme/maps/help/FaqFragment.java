@@ -1,4 +1,4 @@
-package com.mapswithme.maps.settings;
+package com.mapswithme.maps.help;
 
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -17,7 +17,7 @@ import com.mapswithme.maps.WebContainerDelegate;
 import com.mapswithme.util.Constants;
 import com.mapswithme.util.Utils;
 
-public class HelpFragment extends BaseSettingsFragment
+public class FaqFragment extends BaseHelpFragment
 {
   @NonNull
   private final DialogInterface.OnClickListener mDialogClickListener = new DialogInterface.OnClickListener()
@@ -51,7 +51,7 @@ public class HelpFragment extends BaseSettingsFragment
   @Override
   protected int getLayoutRes()
   {
-    return R.layout.fragment_prefs_help;
+    return R.layout.fragment_prefs_faq;
   }
 
   @Override

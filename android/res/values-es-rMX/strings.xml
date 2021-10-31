@@ -4,6 +4,8 @@
 <!-- Language: es-MX -->
 <resources>
 	<!-- SECTION: Strings -->
+	<!-- Button in the main Help dialog -->
+	<string name="how_to_support_us">¿Cómo apoyarnos?</string>
 	<!-- red color -->
 	<string name="red">Rojo</string>
 	<!-- yellow color -->

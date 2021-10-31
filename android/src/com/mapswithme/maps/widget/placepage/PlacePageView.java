@@ -558,7 +558,7 @@ public class PlacePageView extends NestedScrollViewClickFixed
     }
     else
     {
-      getActivity().startLocationToPoint(getMapObject(), true);
+      // TODO: xxx
     }
   }
 

@@ -220,9 +220,13 @@
 	<string name="rate_the_app">Votați-ne aplicația</string>
 	<!-- Text in menu -->
 	<string name="help">Ajutor</string>
-	<!-- Text in menu -->
+	<!-- Button in the main Help dialog -->
+	<string name="faq">FAQ</string>
+	<!-- Button in the main Help dialog -->
+	<string name="how_to_support_us">Cum să ne sprijiniți?</string>
+	<!-- Button in the main Help dialog -->
 	<string name="copyright">Drepturi de autor</string>
-	<!-- Text in menu -->
+	<!-- Text in menu + Button in the main Help dialog -->
 	<string name="report_a_bug">Raportează o eroare</string>
 	<!-- Alert text -->
 	<string name="email_error_body">Nu a fost stabilit programul de e-mail. Stabilește-l sau utilizează un alt mod de a ne contacta la %s.</string>
@@ -557,14 +561,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">Aruncați o privire</string>
 	<string name="recent_track_background_dialog_message">Organic Maps folosește în fundal geo-locația pentru a înregistra cel mai recent traseu urmat.</string>
-	<!-- Rate on Google Play (Android only) -->
-	<string name="rate_gp">Dați un calificativ pe Google Play</string>
-	<!-- Share with friends: menu item title -->
-	<string name="tell_friends">Spuneți unui prieten</string>
-	<!-- Share with friends: sharing text -->
-	<string name="tell_friends_text">Bună! Instalați Organic Maps!</string>
 	<!-- About short text (below logo) -->
-	<string name="about_description">Organic Maps este o aplicație offline esențială când călătoriți. Organic Maps utilizează datele OpenStreeMap și permite editarea acestora.</string>
+	<string name="about_description">Organic Maps este o aplicație gratuită și open-source de hărți offline pentru călători, turiști, excursioniști și bicicliști. Fără reclame. Fără urmărire.  Fără ochii indiscreți ai Big Tech Co.</string>
 	<string name="general_settings">Setări generale</string>
 	<!-- For the first routing -->
 	<string name="accept">Acceptați</string>
