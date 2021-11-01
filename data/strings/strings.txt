@@ -92,7 +92,7 @@
     he = בטל  הורדת הקובץ
     hu = Letöltés megszakítása
     id = Batalkan Pengunduhan
-    it = Annulla il download
+    it = Annulla lo scaricamento
     ja = ダウンロードをキャンセル
     ko = 다운로드 취소하기
     nb = Avbryt nedlasting
@@ -202,7 +202,7 @@
     he = הורדת הקובץ נכשלה. לחץ שוב לניסיון נוסף
     hu = Letöltés sikertelen. Kérjük próbálja újra!
     id = Pengunduhan gagal, sentuh untuk mencoba sekali lagi
-    it = Download fallito, tocca di nuovo per un altro tentativo
+    it = Scaricamento fallito, tocca di nuovo per un altro tentativo
     ja = ダウンロードが失敗しました。もう一度試すには画面をタッチしてください。
     ko = 다운로드에 실패하였습니다. 다시 두드려 시도하여 주십시요.
     nb = Nedlastingen mislyktes – trykk på nytt for å prøve en gang til
@@ -231,7 +231,7 @@
     cs = Stahování…
     da = Downloader…
     de = Wird heruntergeladen…
-    el = Λήψη…
+    el = Scaricamento…
     es = Descargando…
     fa = درحال دانلود
     fi = Ladataan…
@@ -239,7 +239,7 @@
     he = מוריד….
     hu = Letöltés…
     id = Sedang mengunduh…
-    it = Download in corso…
+    it = Scaricamento in corso…
     ja = ダウンロード中…
     ko = 다운로드 중…
     nb = Laster ned …
@@ -746,7 +746,7 @@
     he = הורדנכשלה
     hu = Letöltése sikertelen
     id = Sedang Mengunduh telah gagal
-    it = Il download non è riuscito
+    it = Lo scaricamento non è riuscito
     ja = のダウンロードに失敗しました
     ko = 다운로드에 실패하였습니다
     nb = Laster ned mislyktes
@@ -1033,7 +1033,7 @@
     he = אנא פנה שטח אחסון על ה SD card/USB כדי להשתמש בישום
     hu = Kérjük szabadítson fel helyet az SD kártyán / USB tárolón az alkalmazás használatához!
     id = Mohon bebaskan sejumlah ruang pada kartu SD/penyimpanan USB terlebih dahulu untuk menggunakan aplikasi
-    it = Libera prima dello spazio sulla scheda Sd/ memoria USB per usare l'app
+    it = Libera dello spazio sulla scheda SD/memoria USB per poter utilizzare l'app
     ja = アプリを起動するにはSDカード/USBストレージの空き容量を確保する必要があります
     ko = 응용 프로그램을 사용하기 위해서는 첫째 SD 카드 / USB 저장 장치에 여유 공간을 확보하십시오
     nb = Frigjør plass på SD-kortet/USB-enheten først for å bruke appen
@@ -1105,7 +1105,7 @@
     he = תחילה, נוריד למכשירך מפה כללית של העולם.\nדורש %@ של נתונים.
     hu = Első használat előtt letöltjük a világtérképet.\n%@ tárolóhely szükséges.
     id = Sebelum Anda mulai izinkan kami mengunduh peta dunia secara umum ke perangkat Anda.\nHal ini memerlukan data %@.
-    it = Prima di iniziare è necessario scaricare la mappa generale del mondo sul tuo dispositivo.\nLa dimensione del download è di %@.
+    it = Prima di iniziare, vorremmo scaricare la mappa generale del mondo sul tuo dispositivo.\nLa dimensione del download è di %@.
     ja = 利用を開始する前におおまかな世界地図をダウンロードします。これには%@の空き容量が必要です。
     ko = 시작하시기 전에 일반 세계 지도를 귀하의 장치로 다운로드하겠습니다.\n%@ 데이터가 필요합니다.
     nb = Før du begynner, la oss laste ned det generelle verdenskartet til enheten. Det trengs %@ med data.
@@ -1177,7 +1177,7 @@
     he = מוריד %@. תוכל עתה\nלהמשיך למפה.
     hu = %@ letöltése. Mos továbbléphet\na térképhez.
     id = Sedang mengunduh %@. Sekarang Anda dapat melanjutkan ke peta.
-    it = Sto scaricando %@. Puoi ora\nprocedere con la mappa.
+    it = Sto scaricando %@. Ora puoi\nandare alla mappa.
     ja = %@をダウンロードしました\nマップを表示可能です
     ko = %@다운로드. 이제지도를 진행할 수 있습니다.
     nb = Laster ned %@. Du kan nå\nfortsette til kartet.
@@ -1397,7 +1397,7 @@
     he = הוסף קבוצה חדשה
     hu = Új csoport létrehozása
     id = Tambahkan Set baru
-    it = Aggiungi un nuovo Set
+    it = Aggiungi un nuovo gruppo
     ja = 新しいセットを作成
     ko = 새로운 세트 추가
     nb = Legg til nytt sett
@@ -1435,7 +1435,7 @@
     he = צבע רשימת האתרים
     hu = Könyvjelző színe
     id = Warna Penanda
-    it = Colore del Segnalibro
+    it = Colore del segnalibro
     ja = ブックマーク表示色
     ko = 색상 즐겨찾기에 추가
     nb = Bokmerk farge
@@ -1471,7 +1471,7 @@
     he = שם רשימת האתרים
     hu = Könyvjelzőcsoport neve
     id = Nama Set Penanda
-    it = Seleziona un nome del segnalibro
+    it = Nome del gruppo di segnalibri
     ja = ブックマークセット名称
     ko = 집합 이름을 즐겨찾기에 추가
     nb = Bokmerk settnavn
@@ -1506,7 +1506,7 @@
     he = רשימות אתרים
     hu = Könyvjelzőcsoportok
     id = Set Penanda
-    it = Seleziona un segnalibro
+    it = Gruppi di segnalibri
     ja = ブックマークセット
     ko = 세트를 즐겨찾기에 추가
     nb = Bokmerk sett
@@ -1617,6 +1617,7 @@
     he = שם
     hu = Név
     id = Nama
+    it = Nome
     ja = 名称
     ko = 이름
     nb = Navn
@@ -1690,7 +1691,7 @@
     he = קבוצה
     hu = Csoport
     id = Set
-    it = Seleziona
+    it = Gruppo
     ja = セット
     ko = 집합
     nb = Sett
@@ -1801,7 +1802,7 @@
     he = בחר הכתובת במחשבך לשמירת המפות שתוריד
     hu = Válassza ki, hogy hova töltsük le a térképeket
     id = Pilih tempat untuk menyimpan unduhan peta
-    it = Seleziona il luogo in cui le mappe devono essere scaricate
+    it = Seleziona la cartella in cui scaricare le mappe
     ja = マップのダウンロード先を選択してください
     ko = 지도가 다운로드될 곳을 선택합니다
     nb = Velg hvor du vil at kartene skal lastes ned til
@@ -1875,7 +1876,7 @@
     he = פעולה זו יכולה להמשך מספר דקות.\nהמתן בבקשה…
     hu = Ez több percig is eltarthat.\nKérjük várjon…
     id = Ini akan memakan waktu beberapa menit.\nMohon tunggu…
-    it = Questo può richiedere diversi minuti.\ncortesemente attendi…
+    it = L'operazione può richiedere diversi minuti.\nAttendere prego…
     ja = 数分かかる場合があります。\nしばらくお待ち下さい…
     ko = 이 작업은 수 분 소요될 수 있습니다.\n잠시 기다리세요…
     nb = Dette kan ta flere minutter. Vent et øyeblikk …
@@ -2061,7 +2062,7 @@
     he = תחבורה
     hu = Közlekedés
     id = Transportasi
-    it = Transporto
+    it = Trasporto
     ja = 交通機関
     ko = 수송
     nb = Transport
@@ -2210,7 +2211,7 @@
     he = מלון
     hu = Szálloda
     id = Hotel
-    it = Hôtel
+    it = Albergo
     ja = ホテル
     ko = 호텔
     nb = Hotell
@@ -2247,7 +2248,7 @@
     he = נקודות עיניין
     hu = Látnivaló
     id = Pemandangan
-    it = Turistico
+    it = Attrazione turistica
     ja = 観光
     ko = 관광
     nb = Severdigheter
@@ -2394,7 +2395,7 @@
     fr = Vacances en famille
     hu = Pihenés a gyerekekkel
     id = Liburan keluarga
-    it = Vacanze bambini
+    it = Per bambini
     ja = 家族の休日
     ko = 가족 기념일
     nb = Familieferie
@@ -2691,7 +2692,7 @@
     he = משותפתOrganic Maps רשימת אתרי
     hu = Egy Organic Maps könyvjelzőt osztottak meg Önnel
     id = Bagikan penanda Organic Maps
-    it = Il segnalibri Organic Maps è stato condiviso con te
+    it = Un segnalibro di Organic Maps è stato condiviso con te
     ja = Organic Mapsの位置情報シェア
     ko = 귀하와 공유된 Organic Maps 즐겨찾기
     nb = Delte Organic Maps-bokmerker
@@ -2714,6 +2715,7 @@
     tags = android, ios
     en = Hello!\n\nAttached are my bookmarks from Organic Maps app. Please open them if you have Organic Maps installed. Or, if you don't, download the app for your iOS or Android device by following this link: https://omaps.app/get?kmz\n\nEnjoy traveling with Organic Maps!
     be = Вітаю!\n\nУ далучаным файле мае закладкі з дататка Organic Maps. Калі ласка, адчыніце іх калі ў вас усталяваны Organic Maps. Калі не, спампуйце дадатак для вашай прылады iOS альбо Andriod па спасылцы: https://omaps.app/get?kmz\n\nПрыемных падарожжаў з Organic Maps!
+    it = Ciao!\n\nIn allegato trovi i miei segnalibri dall'app Organic Maps. Se hai installato Organic Maps, aprili pure. Oppure, se non l'hai installata, scaricala per il tuo dispositivo iOS o Android seguendo questo link: https://omaps.app/get?kmz\n\nBuon viaggio con Organic Maps!
     nl = Hallo!\n\nBijgesloten zijn mijn bladwijzers uit de Organic Maps app. Open ze als je Organic Maps geïnstalleerd hebt. Of, als je dat niet hebt, download de app voor je iOS- of Android-apparaat door deze link te volgen: https://omaps.app/get?kmz\n\nGeniet van het reizen met Organic Maps!
     pt = Olá!\n\nSegue em anexo os meus favoritos da aplicação Organic Maps. Por favor abra-os se tiver o Organic Maps instalado. Caso não tenha, descarregue a aplicação para o seu dispositivo iOS ou Android com a hiperligação https://omaps.app/get?kmz\n\nDivirta-se a viajar com o Organic Maps!
     pt-BR = Olá!\n\nSegue em anexo meus favoritos do app Organic Maps. Por favor os abra se você tiver o Organic Maps instalado. Caso não tenha, baixe o app para o seu dispositivo iOS ou Android com o link https://omaps.app/get?kmz\n\nDisfrute viajar com o Organic Maps!
@@ -2920,7 +2922,7 @@
     he = . פעילה כרגע מצטערים, הגדרת "שמירת מפה" אינה
     hu = Sajnáljuk, a térképek tárolása jelenleg ki van kapcsolva.
     id = Maaf, pengaturan Penyimpanan Peta saat ini sedang non-aktif.
-    it = Siamo spiacenti, ma le impostazioni di archiviazione delle mappe sono disabilitate.
+    it = Ci scusiamo, le impostazioni di archiviazione delle mappe sono attualmente disabilitate.
     ja = 恐れ入ります、マップストレージ設定が無効になっています。
     ko = 죄송합니다, 지도 스토리지 설정이 비활성화되어 있습니다.
     nb = Beklager, innstillingene for kartlagring er for øyeblikket deaktivert.
@@ -2957,7 +2959,7 @@
     he = הודת מפת המדינה מתבצעת כרגע.
     hu = Országletöltés folyamatban.
     id = Pengunduhan negara sedang berjalan.
-    it = Il download della nazione è in corso.
+    it = Lo scaricamento della mappa è in corso.
     ja = ダウンロードを実行中です
     ko = 국가 다운로드가 지금 진행 중입니다.
     nb = Nedlasting av land pågår nå.
@@ -2993,7 +2995,7 @@
     he = . אין ברשותך מפות לא מקוונות? הורד Organic Maps! %1$@ or %2$@ הי, בדוק את מיקומי הנוכחי ב. https://omaps.app/get הורד אותן מ:
     hu = Nézd meg a Organic Maps helyzetemet! %1$@ vagy %2$@ A program letöltése: https://omaps.app/get
     id = Hei, lihat lokasiku saat ini di Organic Maps! %1$@ atau %2$@ belum memiliki peta offline? Unduh di sini: https://omaps.app/get
-    it = Vedi dove sono ora. Apri %1$@ o %2$@
+    it = Ehi, guarda la mia posizione attuale in Organic Maps! Apri %1$@ o %2$@ Non hai ancora le mappe offline? Scarica l'app qui: https://omaps.app/get
     ja = 私は今ここにいます。リンク: %1$@, %2$@
     ko = 현재 위치를 알아 보십시오. %1$@ 또는 %2$@ 열기
     nb = Hei, se posisjonen min på Organic Maps! %1$@ eller %2$@ Har du ikke offline-kart? Last dem ned her: https://omaps.app/get
@@ -3029,7 +3031,7 @@
     he = הי, בדוק את הסיכה שלי במפה של Organic Maps!
     hu = Nézze meg a Organic Maps jelzőmet
     id = Hei, lihat pinku di peta Organic Maps
-    it = Dai uno sguardo al mio pin sulla mappa di Organic Maps
+    it = Guarda il mio segnaposto sulla mappa di Organic Maps!
     ja = Organic Mapsでピン情報を確認
     ko = Organic Maps 지도에서 내 핀 보기
     nb = Hei, se merket mitt på Organic Maps-kartet
@@ -3065,7 +3067,7 @@
     he = היי, בדקו את המיקום הנוכחי שלי במפה של Organic Maps!
     hu = Nézze meg a helyzetemet a Organic Maps térképen!
     id = Hei, lihat lokasiku saat ini di peta Organic Maps!
-    it = Guarda dove mi trovo attualmente sulla mappa Organic Maps
+    it = Guarda dove mi trovo ora sulla mappa di Organic Maps!
     ja = Organic Mapsで現在地を確認
     ko = Organic Maps 지도에서 제 현재 위치를 살펴 보시기 바랍니다
     nb = Hei, se posisjonen min på Organic Maps-kartet!
@@ -3101,7 +3103,7 @@
     he = הי, n\nI\ אני כאן: %1$@. הקש על הלינק %2$@ או על %3$@ כדי לראות את המקום על המפה. \n\n תודה.
     hu = Üdvözlöm!\n\nJelenleg itt vagyok: %1$@ Kattintson erre a hivatkozásra %2$@ vagy erre %3$@, hogy lássa a helyet a térképen.\n\nKöszönöm.
     id = Hai,\n\nSekarang saya ada di sini: %1$@. Klik tautan ini %2$@ atau yang ini %3$@ untuk melihat tempatnya di peta.\n\nTerima kasih.
-    it = Ciao,\n\nSono qui adesso: %1$@. Clicca su questo link %2$@ oppure su questo %3$@ per vedere il posto sulla mappa.\n\nGrazie.
+    it = Ciao,\n\nIn questo momento sono qui: %1$@. Clicca su questo link %2$@ oppure su questo %3$@ per vedere la posizione sulla mappa.\n\nGrazie.
     ja = 私は今ここにいます: %1$@\n\nリンクをクリックすると詳細がマップに表示されます。\n\n%2$@\n\n%3$@
     ko = 안녕하세요.\n\n지금 다음 위치에 있습니다: %1$@. %2$@ 또는 %3$@ 링크를 클릭하여 지도상에서 해당 장소를 살펴보시기 바랍니다.\n\n감사합니다.
     nb = Hei,Jeg er her nå: %1$@. Klikk på denne koblingen %2$@ eller denne %3$@ for å se stedet på kartet.\n\nTakk.
@@ -3211,7 +3213,7 @@
     he = הועתקו לזכרון זמני %1$@
     hu = A vágólapra másolva: %1$@
     id = Telah Disalin ke Papan Klip: %1$@
-    it = Copiato sugli Appunti: %1$@
+    it = Copiato negli appunti: %1$@
     ja = クリップボードにコピーしました: %1$@
     ko = 클립보드에 복사됨: %1$@
     nb = Kopiert til utklippstavlen: %1$@
@@ -3351,6 +3353,7 @@
     el = Ημερομηνία έκδοσης: %d
     fa = ورژن داده: %d
     fr = Version de données: %d
+    it = Versione dei dati: %d
     nl = Gegevensversie: %d
     pl = Wersja danych: %d
     pt = Versão dos dados: %d
@@ -3414,7 +3417,7 @@
     he = נתיבים
     hu = Csoportok
     id = Jalur
-    it = Tracciati
+    it = Percorsi
     ja = トラック
     ko = 트랙
     nb = Ruter
@@ -3487,7 +3490,7 @@
     he = שתף את מקומי
     hu = Helyzetem megosztása
     id = Bagikan Lokasi Saya
-    it = Condividi la mia location
+    it = Condividi la mia posizione
     ja = 位置情報を共有する
     ko = 내 위치 공유
     nb = Del posisjonen min
@@ -3515,6 +3518,7 @@
     de = Allgemeine Einstellungen
     fa = تنظیمات عمومی
     fr = Paramètres généraux
+    it = Impostazioni generali
     nl = Algemene instellingen
     pl = Ustawienia ogólne
     pt = Configurações gerais
@@ -3532,6 +3536,7 @@
     de = Information
     fa = اطلاعات
     fr = Information
+    it = Informazioni
     nl = Informatie
     pl = Informacje
     pt = Informação
@@ -3628,7 +3633,7 @@
     he = הצג על המסך
     hu = Mutassa a kijelzőn
     id = Tampilkan pada layar
-    it = Condividi la mia location
+    it = Mostra sulla mappa
     ja = 画面上に表示
     ko = 화면에 표시
     nb = Vis på skjermen
@@ -3772,7 +3777,7 @@
     fr = Automatique
     hu = Automatikus
     id = Otomatis
-    it = Auto
+    it = Automatico
     ja = 自動
     ko = 자동
     nb = Auto
@@ -3916,7 +3921,7 @@
     fr = Langue vocale
     hu = A hang nyelve
     id = Bahasa Suara
-    it = Lingua per la voce
+    it = Lingua della voce
     ja = 音声言語
     ko = 음성 언어
     nb = Talespråk
@@ -4094,7 +4099,7 @@
     fr = Désactivé
     hu = Kikapcsolva
     id = Nonaktif
-    it = Disabilitato
+    it = Disabilitata
     ja = オフ
     ko = 선택 안 함
     nb = Av
@@ -4304,7 +4309,7 @@
     fr = Ceci vous permet d’enregistrer le chemin emprunté pendant un certain temps et de le voir sur la carte. Veuillez noter : l’activation de cette fonction entraîne une grande utilisation de la batterie. La route sera supprimée automatiquement de la carte lorsque l’intervalle de temps sera arrivé à expiration.
     hu = Ez lehetővé teszi a bejárt útvonal rögzítését és megtekintését a térképen bizonyos időre. Kérjük, vegye figyelembe, hogy ezen funkció aktiválásával megnöveli az akkumulátor használatát. Az útvonal automatikusan törlődik a térképről az időtartam lejártával.
     id = Ini memungkinkan Anda untuk merekam jalur yang telah dilalui selama jangka waktu tertentu dan melihatnya pada peta. Harap ketahui: aktivasi fungsi ini menyebabkan peningkatan penggunaan baterai. Trek akan dihapus secara otomatis dari peta setelah selang waktu berakhir.
-    it = Consente di registrare il tratto percorso in un determinato periodo di tempo e vedere lo stesso sulla mappa. Nota: l'attivazione di questa funzione incrementa l'uso della batteria. Il tratto viene rimosso automaticamente dalla mappa allo scadere dell'intervallo di tempo.
+    it = Consente di registrare il tratto percorso in un determinato periodo di tempo e vedere lo stesso sulla mappa. Nota: l'attivazione di questa funzione incrementa l'uso della batteria. Il percorso viene rimosso automaticamente dalla mappa allo scadere dell'intervallo di tempo.
     ja = 移動経路を一定期間記録し、地図上で確認できるようにします。注意：この機能を有効にすると、バッテリーの消費量が増えます。表示期間が終了すると、走行軌跡は地図から自動的に削除されます。
     ko = 특정 기간 동안 이동된 경로를 기록하고 지도에서 그 경로를 볼 수 있습니다. 참고: 이 기능을 활성화하면 배터리 사용량이 증가하게 됩니다. 시간 간격이 만료된 후 지도에서 해당 트랙이 자동으로 제거됩니다.
     nb = Det lar deg lagre ruten du har reist i en spesifikk periode og se den på kartet. Merk: Aktivering av funksjonen øker batteriforbruket. Ruten fjernes automatisk fra kartet når tidsintervallet utløper.
@@ -4486,7 +4491,7 @@
     fr = Feedback
     hu = Visszajelzés
     id = Umpan balik
-    it = Feedback
+    it = Commenti
     ja = フィードバック
     ko = 피드백
     nb = Tilbakemelding
@@ -4634,7 +4639,7 @@
     he = דווחו על באג
     hu = Hibabejelentés
     id = Laporkan gangguan
-    it = Riporta un bug
+    it = Riferisci un problema
     ja = バグを報告
     ko = 오류 신고
     nb = Rapporter en feil
@@ -4671,7 +4676,7 @@
     he = יישום הדוא"ל לא הוגדר. אנא קבעו את תצורתו או השתמשו בכל דרך אחרת על מנת ליצור עמנו קשר בכתובת %@
     hu = Az email kliens nincs beállítva. Kérjük, konfiguráld vagy próbálj meg valamilyen más módon kapcsolatba lépni velünk a %@ email címen keresztül.
     id = Surel pelanggan belum diatur. Mohon konfigurasikan atau gunakan cara lain untuk menghubungi kami di %@
-    it = Il client email non è stato configurato. Si prega di configurarlo o di usare qualsiasi altro metodo per contattarci all'indirizzo %@
+    it = Il programma di posta elettronica non è stato configurato. Si prega di configurarlo o di usare qualsiasi altro metodo per contattarci all'indirizzo %@
     ja = このメールクライアントはセットアップされていません。設定するか、他の方法で%@にご連絡ください。
     ko = 이메일 클라이언트가 설정되지 않았습니다. 이를 구성하거나 %@로 연락할 다른 방법을 사용하십시오.
     nb = E-postklienten har ikke blitt konfigurert. Konfigurer den eller bruk en annen måte å kontakte oss på %@
@@ -4708,7 +4713,7 @@
     he = שגיאה בשליחת דוא"ל
     hu = Hiba az email küldése során
     id = Gangguan pengiriman surel
-    it = Errore invio e-mail
+    it = Errore nell'invio dell'e-mail
     ja = メール送信エラー
     ko = 메일 전송 중 오류
     nb = Feil ved sending av e-post
@@ -4745,7 +4750,7 @@
     he = כיול המצפן
     hu = Iránytű kalibrálás
     id = Kalibrasi kompas
-    it = Calibrazione del compasso
+    it = Calibrazione della bussola
     ja = コンパスの調整
     ko = 나침반 보정
     nb = Kompasskalibrering
@@ -4924,7 +4929,7 @@
     fr = Disponible
     hu = Elérhető
     id = Tersedia
-    it = Disponibile
+    it = Disponibili
     ja = 利用可能
     ko = 사용 가능
     nb = Tilgjengelig
@@ -4961,7 +4966,7 @@
     he = נוסף/ו לתור
     hu = Várólistás
     id = Telah diantrekan
-    it = In coda
+    it = In attesa
     ja = 待ち行列型の
     ko = 대기
     nb = Lagt i kø
@@ -5572,7 +5577,7 @@
     fr = Partagez vos idées ou vos problèmes de façon à ce que nous puissions améliorer l'application.
     hu = Az alkalmazás fejlesztése érdekében ossz meg bármilyen ötletet vagy problémát.
     id = Bagikan ide atau masalah, sehingga kami dapat meningkatkan app ini untuk Anda.
-    it = Condividi le tue idee o problemi così che possiamo migliorare l'app per te.
+    it = Condividi le tue idee o problemi in modo che possiamo migliorare l'app per te.
     ja = 皆様のためにアプリを改善できるよう、アイディアや問題点を教えてください。
     ko = 모든 아이디어나 문제를 공유하여, 사용자를 위한 앱을 향상시킬 수 있습니다.
     nb = Del ideer med oss eller still spørsmål, slik at vi kan forbedre appen for deg.
@@ -5608,7 +5613,7 @@
     fr = Envoyez vos commentaires
     hu = Visszajelzés elküldése
     id = Kirim umpan balik
-    it = Invia feedback
+    it = Invia commento
     ja = フィードバックを送信
     ko = 의견 보내기
     nb = Send tilbakemelding
@@ -5644,7 +5649,7 @@
     fr = Téléchargez des cartes le long du trajet
     hu = Tölts le térképeket az útvonal mellett
     id = Unduh peta bersama rute
-    it = Scarica le mappe lungo il percorso
+    it = Scarica tutte le mappe sul percorso
     ja = ルート上の地図をダウンロード
     ko = 경로를 따라 지도 다운로드
     nb = Last ned kart langs ruten
@@ -5680,7 +5685,7 @@
     fr = La création d'un itinéraire nécessite que toutes les cartes de votre localisation vers votre destination soient téléchargées et actualisées.
     hu = Útvonal tervezéséhez a kiindulási pont és a célútvonal összes térképét szükséges letölteni és frissíteni.
     id = Membuat rute memerlukan semua peta dari lokasi Anda ke tujuan yang diunduh dan diperbarui.
-    it = Creare un percorso necessita la presenza di tutte le mappe scaricate e aggiornate dalla tua posizione alla destinazione.
+    it = Per creare un percorso è necessario avere scaricato e aggiornato tutte le mappe dalla tua posizione fino alla destinazione.
     ja = ルートの作成には現在位置から目的地までのすべての地図をダウンロードし、最新のものにする必要があります。
     ko = 경로를 만드는 것은 사용자의 위치에서의 모든 지도를 다운로드되고 업데이트된 대상으로 필요합니다.
     nb = Når du skal opprette en rute må du ha oppdatert alle kartene fra ditt ståsted til din destinasjon.
@@ -5715,7 +5720,7 @@
     fr = Pas assez d'espace
     hu = Nincs elég hely
     id = Ruang simpan tidak cukup
-    it = Spazio non sufficiente
+    it = Spazio insufficiente
     ja = 空き容量が足りません
     ko = 여유 공간 부족
     nb = Ikke nok ledig minne
@@ -5788,7 +5793,7 @@
     fr = Veuillez activer les services de localisation
     hu = Kérjük kapcsolja be a helyzetmeghatározó szolgáltatást
     id = Mohon aktifkan Layanan Lokasi
-    it = Cortesemente abilita i servizi di localizzazione
+    it = Per favore, abilita i servizi di localizzazione
     ja = 位置情報サービスを有効化してください
     ko = 위치 서비스를 작동시켜 주십시요.
     nb = Aktiver posisjonstjenester
@@ -5858,7 +5863,7 @@
     fr = Vos descriptions (version texte ou html)
     hu = Az ön leírásai (sima szöveg vagy html)
     id = Deskripsi Anda (teks atau html)
-    it = Le tue descrizioni (formato testo o html)
+    it = Le tue note (formato testo o html)
     ja = 説明（テキストまたはHTML）
     ko = 설명(텍스트 또는 HTML)
     nb = Dine beskrivelser (tekst eller html)
@@ -6077,7 +6082,7 @@
     fr = Pourpre
     hu = Lila
     id = Tím
-    it = Viola
+    it = Violetto
     ja = 紫
     ko = 보라색
     nb = Lilla
@@ -6224,7 +6229,7 @@
     fr = Pourpre foncé
     hu = Sötét lila
     id = Ungu Gelap
-    it = Viola scuro
+    it = Viola
     ja = ディープパープル
     ko = 진보라색
     nb = Mørkepurpur
@@ -6298,7 +6303,7 @@
     fr = Cyan
     hu = Cián
     id = Biru Kehijauan
-    it = Cyan
+    it = Ciano
     ja = シアン
     ko = 시안
     nb = Blågrønn
@@ -6372,7 +6377,7 @@
     fr = Vert citron
     hu = Lime
     id = Kuning Gelap
-    it = Verde fluo
+    it = Verde chiaro
     ja = ライム
     ko = 라임
     nb = Limegrønn
@@ -6483,7 +6488,7 @@
     fr = Gris-bleu
     hu = Kékes Szürke
     id = Biru Keabu-abuan
-    it = Grigiazzurro
+    it = Grigio asfalto
     ja = ブルーグレイ
     ko = 청회색
     nb = Gråblå
