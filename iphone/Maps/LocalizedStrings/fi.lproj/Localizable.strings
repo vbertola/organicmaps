@@ -382,7 +382,7 @@
 "help" = "Ohje";
 
 /* Button in the main Help dialog */
-"faq" = "Usein kysytyt kysymykset";
+"faq" = "Kysymykset ja vastaukset";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "Miten tukea meitä?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "MAPS.SE käyttää taustalla geosijaintia sinun viimeisen matkareitin tallentamiseksi.";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps on ilmainen ja avoimen lähdekoodin offline-karttasovellus matkailijoille, turisteille, retkeilijöille ja pyöräilijöille. Ei mainoksia. Ei seurantaa.  Ei Big Tech Co:n uteliaita silmiä.";
+/* About short text */
+"about_description" = "Organic Maps on ilmainen ja avoimen lähdekoodin offline-karttojen sovellus, jota muutama geek on kehittänyt vapaa-ajallaan. Kaikki karttatiedot ovat OpenStreetMapista.Ei mainoksia.Ei seuranta- ja henkilötietojen keräämistä.";
 
 "general_settings" = "Yleiset asetukset";
 

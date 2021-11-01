@@ -221,7 +221,7 @@
 	<!-- Text in menu -->
 	<string name="help">Hjälp</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">Vanliga frågor</string>
+	<string name="faq">Frågor och svar</string>
 	<!-- Button in the main Help dialog -->
 	<string name="how_to_support_us">Hur kan du stödja oss?</string>
 	<!-- Button in the main Help dialog -->
@@ -560,8 +560,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">Kolla in</string>
 	<string name="recent_track_background_dialog_message">Organic Maps använder din geografiska position i bakgrunden för att spela in din senaste resta rutt.</string>
-	<!-- About short text (below logo) -->
-	<string name="about_description">Organic Maps är en gratis och öppen källkodsapp för offlinekartor för resenärer, turister, vandrare och cyklister. Inga annonser. Ingen spårning.  Inga nyfikna ögon från Big Tech Co.</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps är en gratis och öppen källa offline kartor app, utvecklad av några geeks på fritiden.Alla kartdata är från OpenStreetMap.Inga annonser. Ingen spårning och personuppgifter.</string>
 	<string name="general_settings">Allmänna inställningar</string>
 	<!-- For the first routing -->
 	<string name="accept">Acceptera</string>

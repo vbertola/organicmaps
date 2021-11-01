@@ -215,7 +215,7 @@
 	<!-- Text in menu -->
 	<string name="help">کمک</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">ﻝﻭﺍﺪﺘﻣ ﺕﻻﺍﻮﺳ</string>
+	<string name="faq">ﺦﺳﺎﭘ ﻭ ﺶﺳﺮﭘ</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">حق نشر و کپی رایت</string>
 	<!-- Text in menu + Button in the main Help dialog -->
@@ -548,6 +548,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">بررسی کنید</string>
 	<string name="recent_track_background_dialog_message">Organic Maps  از اطلاعات موقعیت مکانی شما در پس ضمینه برای ذخیره مسیر هایی که اخیرا سفر کرده اید استفاده می کند.</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps یک برنامه رایگان Maps Offline رایگان و Open-Source است که توسط چند گیگابایتی در زمان آزاد خود توسعه داده شده است.تمام داده های نقشه از OpenStreetMap است.بدون تبلیغاتبدون ردیابی و جمع آوری اطلاعات شخصی.</string>
 	<string name="general_settings">تنظیمات عمومی</string>
 	<!-- For the first routing -->
 	<string name="accept">موافقم</string>

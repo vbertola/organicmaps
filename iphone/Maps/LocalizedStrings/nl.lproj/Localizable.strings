@@ -382,7 +382,7 @@
 "help" = "Hulp";
 
 /* Button in the main Help dialog */
-"faq" = "FAQ";
+"faq" = "Vragen en antwoorden";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "Hoe kunt u ons steunen?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps gebruikt uw geografische positie op de achtergrond om uw onlangs afgelegde route vast te leggen.";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps is een gratis en open-source offline kaarten app voor reizigers, toeristen, wandelaars en fietsers. Geen advertenties. Geen tracking.  Geen Big Tech Co nieuwsgierige ogen.";
+/* About short text */
+"about_description" = "Organic Maps is een gratis en open-source offline kaarten-app, ontwikkeld door een paar geeks in hun vrije tijd. Alle kaartgegevens zijn van OpenStreetMap. Geen advertenties.Geen tracking- en persoonlijke gegevensverzameling.";
 
 "general_settings" = "Algemene instellingen";
 

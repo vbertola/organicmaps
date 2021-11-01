@@ -223,7 +223,7 @@
 	<!-- Text in menu -->
 	<string name="help">Yardım</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">SSS</string>
+	<string name="faq">Sorular ve cevaplar</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Telif hakkı</string>
 	<!-- Text in menu + Button in the main Help dialog -->
@@ -562,6 +562,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">İncele</string>
 	<string name="recent_track_background_dialog_message">Organic Maps, en son seyahat ettiğiniz rotayı kaydetmek için arka planda coğrafi konumunuzu kullanır.</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps, boş zamanlarında birkaç geek tarafından geliştirilen ücretsiz ve açık kaynaklı bir çevrimdışı haritalar uygulamasıdır. Tüm harita verileri OpenStreetMap\'tendir.Reklamsız.İzleme ve kişisel veri toplama yok.</string>
 	<string name="general_settings">Genel ayarlar</string>
 	<!-- For the first routing -->
 	<string name="accept">Kabul</string>

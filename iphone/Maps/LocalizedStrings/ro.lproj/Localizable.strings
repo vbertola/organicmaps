@@ -382,7 +382,7 @@
 "help" = "Ajutor";
 
 /* Button in the main Help dialog */
-"faq" = "FAQ";
+"faq" = "Intrebari si raspunsuri";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "Cum să ne sprijiniți?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps folosește în fundal geo-locația pentru a înregistra cel mai recent traseu urmat.";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps este o aplicație gratuită și open-source de hărți offline pentru călători, turiști, excursioniști și bicicliști. Fără reclame. Fără urmărire.  Fără ochii indiscreți ai Big Tech Co.";
+/* About short text */
+"about_description" = "Organic Maps este o aplicație gratuită și open-source offline, dezvoltată de câțiva geeks în timpul liber.Toate datele hărților sunt din OpenStreetMap.Fără reclame.Nici o colectare de urmărire și date personale.";
 
 "general_settings" = "Setări generale";
 

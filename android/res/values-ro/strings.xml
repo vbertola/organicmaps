@@ -221,7 +221,7 @@
 	<!-- Text in menu -->
 	<string name="help">Ajutor</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">FAQ</string>
+	<string name="faq">Intrebari si raspunsuri</string>
 	<!-- Button in the main Help dialog -->
 	<string name="how_to_support_us">Cum să ne sprijiniți?</string>
 	<!-- Button in the main Help dialog -->
@@ -561,8 +561,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">Aruncați o privire</string>
 	<string name="recent_track_background_dialog_message">Organic Maps folosește în fundal geo-locația pentru a înregistra cel mai recent traseu urmat.</string>
-	<!-- About short text (below logo) -->
-	<string name="about_description">Organic Maps este o aplicație gratuită și open-source de hărți offline pentru călători, turiști, excursioniști și bicicliști. Fără reclame. Fără urmărire.  Fără ochii indiscreți ai Big Tech Co.</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps este o aplicație gratuită și open-source offline, dezvoltată de câțiva geeks în timpul liber.Toate datele hărților sunt din OpenStreetMap.Fără reclame.Nici o colectare de urmărire și date personale.</string>
 	<string name="general_settings">Setări generale</string>
 	<!-- For the first routing -->
 	<string name="accept">Acceptați</string>

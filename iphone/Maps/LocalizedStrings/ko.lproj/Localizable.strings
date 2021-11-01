@@ -382,7 +382,7 @@
 "help" = "도움말";
 
 /* Button in the main Help dialog */
-"faq" = "\"자주하는 질문\"";
+"faq" = "질문과 답변";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "How to support us?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps는 최근 여행한 경로를 녹음하기 위해 배경 화면에서 지역 위치 서비스를 사용합니다.";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps is a free and open-source offline maps app, developed by a few geeks in their free time. All map data is from OpenStreetMap. No ads. No tracking and personal data collection.";
+/* About short text */
+"about_description" = "Organic Maps은 자유 시간에 몇 괴짜로 개발 된 무료 및 오픈 소스 오프라인지도 응용 프로그램입니다. 모든지도 데이터는 OpenStreetMap에서입니다.광고 없음.추적 및 개인 데이터 수집이 없습니다.";
 
 "general_settings" = "일반 설정";
 

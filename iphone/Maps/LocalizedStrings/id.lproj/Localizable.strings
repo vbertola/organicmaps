@@ -382,7 +382,7 @@
 "help" = "Bantuan";
 
 /* Button in the main Help dialog */
-"faq" = "FAQ";
+"faq" = "Pertanyaan dan jawaban";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "How to support us?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps menggunakan geoposisi di latar belakang untuk merekam rute yang baru Anda lalui.";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps is a free and open-source offline maps app, developed by a few geeks in their free time. All map data is from OpenStreetMap. No ads. No tracking and personal data collection.";
+/* About short text */
+"about_description" = "Organic Maps adalah aplikasi peta offline offline bebas dan open-source, yang dikembangkan oleh beberapa geeks di waktu luang mereka. Semua data peta berasal dari OpenStreetMap. Tanpa iklan.Tidak ada pengumpulan data pelacakan dan pribadi.";
 
 "general_settings" = "Setelan umum";
 

@@ -682,7 +682,6 @@ public class MwmActivity extends BaseMwmFragmentActivity
     return false;
   }
 
-  /*
   public void startLocationToPoint(final @Nullable MapObject endPoint,
                                    final boolean canUseMyPositionAsStart)
   {
@@ -693,7 +692,6 @@ public class MwmActivity extends BaseMwmFragmentActivity
       closePlacePage();
     });
   }
-  */
 
   public void refreshFade()
   {

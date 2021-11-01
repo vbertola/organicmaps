@@ -223,7 +223,7 @@
 	<!-- Text in menu -->
 	<string name="help">Ohje</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">Usein kysytyt kysymykset</string>
+	<string name="faq">Kysymykset ja vastaukset</string>
 	<!-- Button in the main Help dialog -->
 	<string name="how_to_support_us">Miten tukea meitä?</string>
 	<!-- Button in the main Help dialog -->
@@ -564,8 +564,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">Tarkastele</string>
 	<string name="recent_track_background_dialog_message">MAPS.SE käyttää taustalla geosijaintia sinun viimeisen matkareitin tallentamiseksi.</string>
-	<!-- About short text (below logo) -->
-	<string name="about_description">Organic Maps on ilmainen ja avoimen lähdekoodin offline-karttasovellus matkailijoille, turisteille, retkeilijöille ja pyöräilijöille. Ei mainoksia. Ei seurantaa.  Ei Big Tech Co:n uteliaita silmiä.</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps on ilmainen ja avoimen lähdekoodin offline-karttojen sovellus, jota muutama geek on kehittänyt vapaa-ajallaan. Kaikki karttatiedot ovat OpenStreetMapista.Ei mainoksia.Ei seuranta- ja henkilötietojen keräämistä.</string>
 	<string name="general_settings">Yleiset asetukset</string>
 	<!-- For the first routing -->
 	<string name="accept">Hyväksy</string>

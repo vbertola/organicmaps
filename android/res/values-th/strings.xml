@@ -223,7 +223,7 @@
 	<!-- Text in menu -->
 	<string name="help">ความช่วยเหลือ</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">คำถามที่พบบ่อย</string>
+	<string name="faq">คำถามและคำตอบ</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">ลิขสิทธิ์</string>
 	<!-- Text in menu + Button in the main Help dialog -->
@@ -562,6 +562,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">ตรวจชม</string>
 	<string name="recent_track_background_dialog_message">Organic Maps ใช้ตำแหน่งทางภูมิศาสตร์ของคุณในพื้นหลังเพื่อบันทึกเส้นทางที่คุณเดินทางเมื่อเร็ว ๆ นี้</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps เป็นแอปแผนที่ออฟไลน์ออฟไลน์ฟรีและโอเพนซอร์สพัฒนาโดย Geeks สองสามตัวในเวลาว่างข้อมูลแผนที่ทั้งหมดมาจาก OpenStreetMapไม่มีโฆษณาไม่มีการติดตามและการรวบรวมข้อมูลส่วนบุคคล</string>
 	<string name="general_settings">การตั้งค่าทั่วไป</string>
 	<!-- For the first routing -->
 	<string name="accept">ยอมรับ</string>

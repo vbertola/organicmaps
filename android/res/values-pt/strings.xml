@@ -228,7 +228,7 @@
 	<!-- Text in menu -->
 	<string name="help">Ajuda</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">Perguntas frequentes</string>
+	<string name="faq">Perguntas e respostas</string>
 	<!-- Button in the main Help dialog -->
 	<string name="how_to_support_us">Como nos apoiar?</string>
 	<!-- Button in the main Help dialog -->
@@ -571,8 +571,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">Verificar</string>
 	<string name="recent_track_background_dialog_message">O Organic Maps usa a sua localização geográfica em segundo plano para gravar a sua rota recente.</string>
-	<!-- About short text (below logo) -->
-	<string name="about_description">Organic Maps é uma aplicação offline gratuita e de código aberto para viajantes, turistas, excursionistas e ciclistas. Sem anúncios. Sem rastreamento.  Sem olhos curiosos da Big Tech Co.</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps é um aplicativo de mapas off-line gratuito e aberto, desenvolvido por alguns geeks em seu tempo livre.Todos os dados do mapa são do OpenStreetMap. Nenhum anúncio.Nenhum rastreamento e coleta de dados pessoais.</string>
 	<string name="general_settings">Configurações gerais</string>
 	<!-- For the first routing -->
 	<string name="accept">Aceitar</string>

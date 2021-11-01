@@ -231,7 +231,7 @@
 	<!-- Text in menu -->
 	<string name="help">Справка</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">Часто задаваемые вопросы</string>
+	<string name="faq">Вопросы и ответы</string>
 	<!-- Button in the main Help dialog -->
 	<string name="how_to_support_us">Как наc поддержать?</string>
 	<!-- Button in the main Help dialog -->
@@ -577,8 +577,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">Посмотри</string>
 	<string name="recent_track_background_dialog_message">Organic Maps использует вашу геопозицию в фоновом режиме для записи недавно пройденного пути.</string>
-	<!-- About short text (below logo) -->
-	<string name="about_description">Organic Maps - это бесплатное приложение с открытым исходным кодом для путешественников, туристов, пеших и велосипедистов. Никакой рекламы. Никакого слежения.  Никаких посторонних глаз Big Tech Co.</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps это бесплатные оффлайн карты с открытым исходным кодом, разработанные несколькими гиками в свободное время. Все данные карт из OpenStreetMap. Без рекламы. Без отслеживания и сбора персональных данных.</string>
 	<string name="general_settings">Общие настройки</string>
 	<!-- For the first routing -->
 	<string name="accept">Принять</string>

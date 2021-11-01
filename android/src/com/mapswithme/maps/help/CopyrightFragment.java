@@ -10,24 +10,18 @@ import androidx.annotation.Nullable;
 
 import com.mapswithme.maps.R;
 import com.mapswithme.maps.WebContainerDelegate;
+import com.mapswithme.maps.base.BaseMwmFragment;
 import com.mapswithme.maps.base.OnBackPressListener;
 import com.mapswithme.util.Constants;
 
-public class CopyrightFragment extends BaseHelpFragment
-                            implements OnBackPressListener
+public class CopyrightFragment extends BaseMwmFragment implements OnBackPressListener
 {
   private WebContainerDelegate mDelegate;
 
   @Override
-  protected int getLayoutRes()
-  {
-    return R.layout.fragment_web_view_with_progress;
-  }
-
-  @Override
   public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState)
   {
-    View root = super.onCreateView(inflater, container, savedInstanceState);
+    View root = inflater.inflate(R.layout.fragment_web_view_with_progress, container, false);
 
     mDelegate = new WebContainerDelegate(root, Constants.Url.COPYRIGHT)
     {
@@ -45,8 +39,9 @@ public class CopyrightFragment extends BaseHelpFragment
   public boolean onBackPressed()
   {
     if (!mDelegate.onBackPressed())
-      getHelpActivity().replaceFragment(HelpFragment.class,
-                                            getString(R.string.help), null);
+    {
+      ((HelpActivity) getActivity()).stackFragment(HelpFragment.class, getString(R.string.help), null);
+    }
 
     return true;
   }

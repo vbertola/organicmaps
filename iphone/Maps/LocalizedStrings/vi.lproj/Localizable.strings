@@ -382,7 +382,7 @@
 "help" = "Trợ giúp";
 
 /* Button in the main Help dialog */
-"faq" = "Câu hỏi thường gặp";
+"faq" = "Câu hỏi và trả lời";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "How to support us?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps sử dụng định vị của bạn trong ứng dụng chạy nền để ghi lại tuyến đường đã đi gần đây của bạn.";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps is a free and open-source offline maps app, developed by a few geeks in their free time. All map data is from OpenStreetMap. No ads. No tracking and personal data collection.";
+/* About short text */
+"about_description" = "Organic Maps là một ứng dụng bản đồ ngoại tuyến miễn phí và nguồn mở, được phát triển bởi một vài chuyên viên máy tính trong thời gian rảnh của họ. Tất cả dữ liệu bản đồ là từ OpenStreetMap. Không quảng cáo.Không theo dõi và thu thập dữ liệu cá nhân.";
 
 "general_settings" = "Thiết lập chung";
 

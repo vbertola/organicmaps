@@ -382,7 +382,7 @@
 "help" = "Nápověda";
 
 /* Button in the main Help dialog */
-"faq" = "FAQ";
+"faq" = "Otázky a odpovědi";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "Jak nás podpořit?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps používají geopozici na pozadí, aby se zaznamenala vaše nedávno ujetá trasa.";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps je bezplatná offline mapová aplikace s otevřeným zdrojovým kódem pro cestovatele, turisty, pěší turisty a cyklisty. Žádné reklamy. Žádné sledování.  Žádné zvědavé oči velkých technologických společností.";
+/* About short text */
+"about_description" = "Organic Maps je zdarma a open-source offline mapy aplikace, vyvinuté několika geeky ve volném čase.Všechna mapová data jsou z OpenStreetMap.Žádné reklamy. Žádné sledování a osobní sběr dat.";
 
 "general_settings" = "Obecná nastavení";
 

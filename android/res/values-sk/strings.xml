@@ -221,7 +221,7 @@
 	<!-- Text in menu -->
 	<string name="help">Nápoveda</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">FAQ</string>
+	<string name="faq">Otázky a odpovede</string>
 	<!-- Button in the main Help dialog -->
 	<string name="how_to_support_us">Ako nás podporiť?</string>
 	<!-- Button in the main Help dialog -->
@@ -560,8 +560,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">Pozrite si</string>
 	<string name="recent_track_background_dialog_message">Organic Maps používa vašu geopozíciu na pozadí pre zaznamenávanie vami nedávno precestovanej trasy.</string>
-	<!-- About short text (below logo) -->
-	<string name="about_description">Organic Maps je bezplatná aplikácia offline máp s otvoreným zdrojovým kódom pre cestovateľov, turistov, turistov a cyklistov. Žiadne reklamy. Žiadne sledovanie.  Žiadne zvedavé oči veľkých technologických spoločností.</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps je bezplatný a open-source offline maps aplikácie, vyvinutý niekoľkými geeks vo svojom voľnom čase.Všetky údaje mapy sú z OpenSTREETMAP. Žiadne reklamy.Žiadne sledovanie a zber osobných údajov.</string>
 	<string name="general_settings">Všeobecné nastavenia</string>
 	<!-- For the first routing -->
 	<string name="accept">Prijať</string>

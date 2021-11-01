@@ -16,12 +16,12 @@ import androidx.annotation.Nullable;
 import com.mapswithme.maps.BuildConfig;
 import com.mapswithme.maps.Framework;
 import com.mapswithme.maps.R;
+import com.mapswithme.maps.base.BaseMwmFragment;
 import com.mapswithme.util.Constants;
 import com.mapswithme.util.Graphics;
 import com.mapswithme.util.Utils;
 
-public class HelpFragment extends BaseHelpFragment
-                        implements View.OnClickListener
+public class HelpFragment extends BaseMwmFragment implements View.OnClickListener
 {
   private void setupItem(@IdRes int id, boolean tint, @NonNull View frame)
   {
@@ -32,15 +32,9 @@ public class HelpFragment extends BaseHelpFragment
   }
 
   @Override
-  protected int getLayoutRes()
-  {
-    return R.layout.about;
-  }
-
-  @Override
   public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState)
   {
-    View root = super.onCreateView(inflater, container, savedInstanceState);
+    View root = inflater.inflate(R.layout.about, container, false);
 
     ((TextView) root.findViewById(R.id.version))
         .setText(BuildConfig.VERSION_NAME);
@@ -112,7 +106,7 @@ public class HelpFragment extends BaseHelpFragment
       break;
 
     case R.id.faq:
-      getHelpActivity().replaceFragment(FaqFragment.class, getString(R.string.faq), null);
+      ((HelpActivity) getActivity()).stackFragment(FaqFragment.class, getString(R.string.faq), null);
       break;
 
     case R.id.report:
@@ -128,7 +122,7 @@ public class HelpFragment extends BaseHelpFragment
       break;
 
     case R.id.copyright:
-      getHelpActivity().replaceFragment(CopyrightFragment.class, getString(R.string.copyright), null);
+      ((HelpActivity) getActivity()).stackFragment(CopyrightFragment.class, getString(R.string.copyright), null);
       break;
     }
   }

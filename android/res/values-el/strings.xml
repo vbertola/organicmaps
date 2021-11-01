@@ -223,7 +223,7 @@
 	<!-- Text in menu -->
 	<string name="help">Βοήθεια</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">FAQ</string>
+	<string name="faq">Ερωτήσεις και απαντήσεις</string>
 	<!-- Button in the main Help dialog -->
 	<string name="how_to_support_us">Πώς να μας υποστηρίξετε;</string>
 	<!-- Button in the main Help dialog -->
@@ -552,8 +552,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">Αναχώρηση</string>
 	<string name="recent_track_background_dialog_message">Το Organic Maps χρησιμοποιεί τη γεωγραφική σας τοποθεσία στο παρασκήνιο για την καταγραφή των πρόσφατων διαδρομών σας.</string>
-	<!-- About short text (below logo) -->
-	<string name="about_description">Το Organic Maps είναι μια δωρεάν και ανοιχτού κώδικα εφαρμογή χαρτών χωρίς σύνδεση για ταξιδιώτες, τουρίστες, πεζοπόρους και ποδηλάτες. Χωρίς διαφημίσεις. Χωρίς εντοπισμό.  Δεν υπάρχουν αδιάκριτα μάτια της Big Tech Co.</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps είναι μια ελεύθερη και ανοιχτή εφαρμογή χαρτών χωρίς σύνδεση, που αναπτύχθηκε με λίγα geeks στον ελεύθερο χρόνο τους. Όλα τα δεδομένα χάρτη είναι από το OpenStreetMap. Χωρίς διαφημίσεις.Δεν υπάρχει παρακολούθηση και συλλογή προσωπικών δεδομένων.</string>
 	<string name="general_settings">Γενικές ρυθμίσεις</string>
 	<!-- For the first routing -->
 	<string name="accept">Συμφωνώ</string>

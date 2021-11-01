@@ -221,7 +221,7 @@
 	<!-- Text in menu -->
 	<string name="help">Segítség</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">GYIK</string>
+	<string name="faq">Kérdések és válaszok</string>
 	<!-- Button in the main Help dialog -->
 	<string name="how_to_support_us">Hogyan támogathat minket?</string>
 	<!-- Button in the main Help dialog -->
@@ -561,8 +561,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">Tekintse meg</string>
 	<string name="recent_track_background_dialog_message">A Organic Maps a geopozíciód használatával a háttérben rögzíti a legutóbb megtett utad.</string>
-	<!-- About short text (below logo) -->
-	<string name="about_description">Az Organic Maps egy ingyenes és nyílt forráskódú offline térképalkalmazás utazók, turisták, túrázók és kerékpárosok számára. Hirdetések nélkül. Nincs nyomkövetés.  Nincs Big Tech Co kíváncsiskodó szeme.</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps egy ingyenes és nyílt forráskódú Offline Maps alkalmazás, amelyet néhány gömbök fejlesztettek ki szabadidejükben. Az összes térképadat az OpenStreetMapból származik.Nincsenek hirdetések.Nincs követés és személyes adatgyűjtés.</string>
 	<string name="general_settings">Általános beállítások</string>
 	<!-- For the first routing -->
 	<string name="accept">Elfogadja</string>

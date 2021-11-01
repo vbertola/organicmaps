@@ -382,7 +382,7 @@
 "help" = "帮助";
 
 /* Button in the main Help dialog */
-"faq" = "常问问题";
+"faq" = "问题和解答";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "如何支持我们？";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps使用背景中的地理位置记录您最近去过的路径。";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps 是一款基本的离线旅行应用。Organic Maps 基于 OpenStreetMap 数据并且允许对其进行编辑。";
+/* About short text */
+"about_description" = "Organic Maps是一个免费的开源离线地图应用程序，在空闲时间开发了几个极客。所有地图数据都来自OpenStreetMap。无广告。没有跟踪和个人数据收集。";
 
 "general_settings" = "常规设置";
 

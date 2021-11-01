@@ -382,7 +382,7 @@
 "help" = "Hjelp";
 
 /* Button in the main Help dialog */
-"faq" = "FAQ";
+"faq" = "Spørsmål og svar";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "How to support us?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps bruker geografiske funksjoner i bakgrunnen for å registrere din nylig reiste rute.";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps is a free and open-source offline maps app, developed by a few geeks in their free time. All map data is from OpenStreetMap. No ads. No tracking and personal data collection.";
+/* About short text */
+"about_description" = "Organic Maps er en gratis og åpen kildekode frakoblet kart app, utviklet av noen få geeks på fritiden. Alle kartdata er fra OpenStreetMap.Ingen annonser. Ingen sporing og personlig datainnsamling.";
 
 "general_settings" = "Generelle innstillinger";
 

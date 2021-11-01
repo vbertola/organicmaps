@@ -382,7 +382,7 @@
 "help" = "Допомога";
 
 /* Button in the main Help dialog */
-"faq" = "FAQ";
+"faq" = "Питання та відповіді";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "Як нас підтримати??";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps використовує вашу геопозицію у фоновому режимі для запису нещодавно пройденого шляху.";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps is a free and open-source offline maps app, developed by a few geeks in their free time. All map data is from OpenStreetMap. No ads. No tracking and personal data collection.";
+/* About short text */
+"about_description" = "Organic Maps - це безкоштовний та відкритий вихідний автономний додаток, розроблений кількома гейками у вільний час. Всі дані карти є від OpenStreetMap.Немає реклами.Немає відстеження та збору персональних даних.";
 
 "general_settings" = "Загальні налаштування";
 

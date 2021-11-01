@@ -223,7 +223,7 @@
 	<!-- Text in menu -->
 	<string name="help">Hjelp</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">FAQ</string>
+	<string name="faq">Spørsmål og svar</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Opphavsrett</string>
 	<!-- Text in menu + Button in the main Help dialog -->
@@ -560,6 +560,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">Sjekk ut</string>
 	<string name="recent_track_background_dialog_message">Organic Maps bruker geografiske funksjoner i bakgrunnen for å registrere din nylig reiste rute.</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps er en gratis og åpen kildekode frakoblet kart app, utviklet av noen få geeks på fritiden. Alle kartdata er fra OpenStreetMap.Ingen annonser. Ingen sporing og personlig datainnsamling.</string>
 	<string name="general_settings">Generelle innstillinger</string>
 	<!-- For the first routing -->
 	<string name="accept">Godta</string>

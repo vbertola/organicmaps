@@ -231,7 +231,7 @@
 	<!-- Text in menu -->
 	<string name="help">帮助</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">常问问题</string>
+	<string name="faq">问题和解答</string>
 	<!-- Button in the main Help dialog -->
 	<string name="how_to_support_us">如何支持我们？</string>
 	<!-- Button in the main Help dialog -->
@@ -574,8 +574,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">来看看</string>
 	<string name="recent_track_background_dialog_message">Organic Maps使用背景中的地理位置记录您最近去过的路径。</string>
-	<!-- About short text (below logo) -->
-	<string name="about_description">Organic Maps 是一款基本的离线旅行应用。Organic Maps 基于 OpenStreetMap 数据并且允许对其进行编辑。</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps是一个免费的开源离线地图应用程序，在空闲时间开发了几个极客。所有地图数据都来自OpenStreetMap。无广告。没有跟踪和个人数据收集。</string>
 	<string name="general_settings">常规设置</string>
 	<!-- For the first routing -->
 	<string name="accept">接受</string>

@@ -382,7 +382,7 @@
 "help" = "Yardım";
 
 /* Button in the main Help dialog */
-"faq" = "SSS";
+"faq" = "Sorular ve cevaplar";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "How to support us?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps, en son seyahat ettiğiniz rotayı kaydetmek için arka planda coğrafi konumunuzu kullanır.";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps is a free and open-source offline maps app, developed by a few geeks in their free time. All map data is from OpenStreetMap. No ads. No tracking and personal data collection.";
+/* About short text */
+"about_description" = "Organic Maps, boş zamanlarında birkaç geek tarafından geliştirilen ücretsiz ve açık kaynaklı bir çevrimdışı haritalar uygulamasıdır. Tüm harita verileri OpenStreetMap'tendir.Reklamsız.İzleme ve kişisel veri toplama yok.";
 
 "general_settings" = "Genel ayarlar";
 

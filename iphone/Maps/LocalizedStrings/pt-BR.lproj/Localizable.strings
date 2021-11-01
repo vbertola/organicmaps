@@ -382,7 +382,7 @@
 "help" = "Ajuda";
 
 /* Button in the main Help dialog */
-"faq" = "Perguntas frequentes";
+"faq" = "Perguntas e respostas";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "Como nos apoiar?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "O Organic Maps usa sua localização geográfica em segundo plano para registrar sua rota recente.";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps é um aplicativo gratuito e de código aberto para viajantes, turistas, excursionistas e ciclistas. Sem anúncios. Sem rastreamento.  Sem olhos curiosos da Big Tech Co.";
+/* About short text */
+"about_description" = "Organic Maps is a free and open-source offline maps app, developed by a few geeks in their free time. All map data is from OpenStreetMap. No ads. No tracking and personal data collection.";
 
 "general_settings" = "Definições gerais";
 

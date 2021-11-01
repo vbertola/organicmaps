@@ -382,7 +382,7 @@
 "help" = "ヘルプ";
 
 /* Button in the main Help dialog */
-"faq" = "よくある質問";
+"faq" = "質問と回答";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "応援するには？";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Mapsは、あなたの位置情報をバックグラウンドで使用して最近の走行ルートを記録します。";
 
-/* About short text (below logo) */
-"about_description" = "Organic Mapsは、旅行者、観光客、ハイカー、サイクリストのための、無料でオープンソースのオフライン地図アプリです。広告はありません。トラッキングもありません。  ビッグテック社の覗き見もありません。";
+/* About short text */
+"about_description" = "Organic Mapsは、自由な時間に数字で開発された無料のオープンソースのオフラインマップアプリです。すべての地図データはOpenStreetMapからのものです。広告なし。追跡や個人データ収集はありません。";
 
 "general_settings" = "一般設定";
 

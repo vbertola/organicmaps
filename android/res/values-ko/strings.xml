@@ -221,7 +221,7 @@
 	<!-- Text in menu -->
 	<string name="help">도움말</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">\"자주하는 질문\"</string>
+	<string name="faq">질문과 답변</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">저작권</string>
 	<!-- Text in menu + Button in the main Help dialog -->
@@ -560,6 +560,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">체크아웃</string>
 	<string name="recent_track_background_dialog_message">Organic Maps는 최근 여행한 경로를 녹음하기 위해 배경 화면에서 지역 위치 서비스를 사용합니다.</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps은 자유 시간에 몇 괴짜로 개발 된 무료 및 오픈 소스 오프라인지도 응용 프로그램입니다. 모든지도 데이터는 OpenStreetMap에서입니다.광고 없음.추적 및 개인 데이터 수집이 없습니다.</string>
 	<string name="general_settings">일반 설정</string>
 	<!-- For the first routing -->
 	<string name="accept">동의</string>

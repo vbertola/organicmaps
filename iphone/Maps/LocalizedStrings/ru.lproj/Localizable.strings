@@ -382,7 +382,7 @@
 "help" = "Справка";
 
 /* Button in the main Help dialog */
-"faq" = "Часто задаваемые вопросы";
+"faq" = "Вопросы и ответы";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "Как наc поддержать?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps использует вашу геопозицию в фоновом режиме для записи недавно пройденного пути.";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps - это бесплатное приложение с открытым исходным кодом для путешественников, туристов, пеших и велосипедистов. Никакой рекламы. Никакого слежения.  Никаких посторонних глаз Big Tech Co.";
+/* About short text */
+"about_description" = "Organic Maps это бесплатные оффлайн карты с открытым исходным кодом, разработанные несколькими гиками в свободное время. Все данные карт из OpenStreetMap. Без рекламы. Без отслеживания и сбора персональных данных.";
 
 "general_settings" = "Общие настройки";
 

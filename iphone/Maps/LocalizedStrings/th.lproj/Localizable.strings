@@ -382,7 +382,7 @@
 "help" = "ความช่วยเหลือ";
 
 /* Button in the main Help dialog */
-"faq" = "คำถามที่พบบ่อย";
+"faq" = "คำถามและคำตอบ";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "How to support us?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps ใช้ตำแหน่งทางภูมิศาสตร์ของคุณในพื้นหลังเพื่อบันทึกเส้นทางที่คุณเดินทางเมื่อเร็ว ๆ นี้";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps is a free and open-source offline maps app, developed by a few geeks in their free time. All map data is from OpenStreetMap. No ads. No tracking and personal data collection.";
+/* About short text */
+"about_description" = "Organic Maps เป็นแอปแผนที่ออฟไลน์ออฟไลน์ฟรีและโอเพนซอร์สพัฒนาโดย Geeks สองสามตัวในเวลาว่างข้อมูลแผนที่ทั้งหมดมาจาก OpenStreetMapไม่มีโฆษณาไม่มีการติดตามและการรวบรวมข้อมูลส่วนบุคคล";
 
 "general_settings" = "การตั้งค่าทั่วไป";
 

@@ -219,7 +219,7 @@
 	<!-- Text in menu -->
 	<string name="help">ヘルプ</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">よくある質問</string>
+	<string name="faq">質問と回答</string>
 	<!-- Button in the main Help dialog -->
 	<string name="how_to_support_us">応援するには？</string>
 	<!-- Button in the main Help dialog -->
@@ -560,8 +560,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">ご覧ください</string>
 	<string name="recent_track_background_dialog_message">Organic Mapsは、あなたの位置情報をバックグラウンドで使用して最近の走行ルートを記録します。</string>
-	<!-- About short text (below logo) -->
-	<string name="about_description">Organic Mapsは、旅行者、観光客、ハイカー、サイクリストのための、無料でオープンソースのオフライン地図アプリです。広告はありません。トラッキングもありません。  ビッグテック社の覗き見もありません。</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Mapsは、自由な時間に数字で開発された無料のオープンソースのオフラインマップアプリです。すべての地図データはOpenStreetMapからのものです。広告なし。追跡や個人データ収集はありません。</string>
 	<string name="general_settings">一般設定</string>
 	<!-- For the first routing -->
 	<string name="accept">了解</string>

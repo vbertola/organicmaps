@@ -382,7 +382,7 @@
 "help" = "Segítség";
 
 /* Button in the main Help dialog */
-"faq" = "GYIK";
+"faq" = "Kérdések és válaszok";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "Hogyan támogathat minket?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "A Organic Maps a geopozíciód használatával a háttérben rögzíti a legutóbb megtett utad.";
 
-/* About short text (below logo) */
-"about_description" = "Az Organic Maps egy ingyenes és nyílt forráskódú offline térképalkalmazás utazók, turisták, túrázók és kerékpárosok számára. Hirdetések nélkül. Nincs nyomkövetés.  Nincs Big Tech Co kíváncsiskodó szeme.";
+/* About short text */
+"about_description" = "Organic Maps egy ingyenes és nyílt forráskódú Offline Maps alkalmazás, amelyet néhány gömbök fejlesztettek ki szabadidejükben. Az összes térképadat az OpenStreetMapból származik.Nincsenek hirdetések.Nincs követés és személyes adatgyűjtés.";
 
 "general_settings" = "Általános beállítások";
 

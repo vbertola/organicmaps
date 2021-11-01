@@ -382,7 +382,7 @@
 "help" = "کمک";
 
 /* Button in the main Help dialog */
-"faq" = "ﻝﻭﺍﺪﺘﻣ ﺕﻻﺍﻮﺳ";
+"faq" = "ﺦﺳﺎﭘ ﻭ ﺶﺳﺮﭘ";
 
 /* Button in the main Help dialog */
 "how_to_support_us" = "How to support us?";
@@ -1002,8 +1002,8 @@
 
 "recent_track_background_dialog_message" = "Organic Maps  از اطلاعات موقعیت مکانی شما در پس ضمینه برای ذخیره مسیر هایی که اخیرا سفر کرده اید استفاده می کند.";
 
-/* About short text (below logo) */
-"about_description" = "Organic Maps is a free and open-source offline maps app, developed by a few geeks in their free time. All map data is from OpenStreetMap. No ads. No tracking and personal data collection.";
+/* About short text */
+"about_description" = "Organic Maps یک برنامه رایگان Maps Offline رایگان و Open-Source است که توسط چند گیگابایتی در زمان آزاد خود توسعه داده شده است.تمام داده های نقشه از OpenStreetMap است.بدون تبلیغاتبدون ردیابی و جمع آوری اطلاعات شخصی.";
 
 "general_settings" = "تنظیمات عمومی";
 

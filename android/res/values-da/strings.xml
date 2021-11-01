@@ -221,7 +221,7 @@
 	<!-- Text in menu -->
 	<string name="help">Hjælp</string>
 	<!-- Button in the main Help dialog -->
-	<string name="faq">FAQ</string>
+	<string name="faq">Spørgsmål og svar</string>
 	<!-- Button in the main Help dialog -->
 	<string name="how_to_support_us">Hvordan kan du støtte os?</string>
 	<!-- Button in the main Help dialog -->
@@ -562,8 +562,8 @@
 	<!-- For sharing via SMS and so on -->
 	<string name="sharing_call_action_look">Tjek</string>
 	<string name="recent_track_background_dialog_message">Organic Maps anvender din geoposition i baggrunden til at gemme din seneste rejserute.</string>
-	<!-- About short text (below logo) -->
-	<string name="about_description">Organic Maps er en gratis og open source offline kort-app til rejsende, turister, vandrere og cyklister. Ingen reklamer. Ingen sporing.  Ingen nysgerrige øjne fra Big Tech Co.</string>
+	<!-- About short text -->
+	<string name="about_description">Organic Maps er en gratis og open source offline kort app, udviklet af et par geeks i deres fritid.Alle kortdata er fra OpenSTreetMap.Ingen annoncer. Ingen sporing og personlig dataindsamling.</string>
 	<string name="general_settings">Generelle indstillinger</string>
 	<!-- For the first routing -->
 	<string name="accept">Accepter</string>
